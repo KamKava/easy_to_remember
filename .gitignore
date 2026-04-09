@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large local data files
+Implementation/Easy_to_remember/data/csv/uk_number_plates.csv
+Implementation/Easy_to_remember/data/csv/uk_phone_numbers.csv
+Implementation/Easy_to_remember/data/db/numbers.db
+Implementation/Easy_to_remember/data/db/plates.db
