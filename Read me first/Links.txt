@@ -1,7 +1,0 @@
-GitHub repo for the project.
-
-https://github.com/KamKava/easy_to_remenber
-
-Notion or meeting minutes, Gantt chart, weekly updates and project management.
-
-https://www.notion.so/Honours-Project-board-283630eded408024a682d3ef169d4f1f?source=copy_link

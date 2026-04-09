@@ -11,7 +11,7 @@ import random
 from pathlib import Path
 
 # Amount of records
-NUM_RECORDS = 10000000
+NUM_RECORDS = 100000
 
 def uk_mobile():
     number = "07" + "".join(str(random.randint(0, 9)) for i in range(9))

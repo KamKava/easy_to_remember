@@ -10,7 +10,7 @@ import random
 import string
 from pathlib import Path
 
-plate_records = 10000000
+plate_records = 100000
 
 # Letters IOQUZ are mostly not used in uk number plates, so they will not be used.
 LETTERS = [c for c in string.ascii_uppercase if c not in "IOQUZ"]
